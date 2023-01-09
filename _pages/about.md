@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. candidate in Biological Physics at University of California San Diego (UCSD). My advisor is [Professor David Kleinfeld](https://physics.ucsd.edu/Directory/Person/90). I work on combining experimental, theoretical and computational approaches to understand brain vascular network strucutre and its roles in maintaining homeostasis and regulating blood flow. 
+I am a Ph.D. candidate in Biological Physics supervised by [Professor David Kleinfeld](https://physics.ucsd.edu/Directory/Person/90) at University of California San Diego (UCSD). I am combining experimental, theoretical and computational approaches to understand brain vascular network strucutre and its roles in maintaining homeostasis and regulating blood flow. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
