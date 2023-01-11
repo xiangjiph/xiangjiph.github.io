@@ -6,7 +6,7 @@ permalink: /
 subtitle: <a href='#'></a>
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   # address: >
