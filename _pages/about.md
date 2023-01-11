@@ -8,7 +8,6 @@ subtitle: <a href='#'></a>
 profile:
   align: left
   image: prof_pic.jpg
-  image: 
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>Department of Physics, UC San Diego</p>
