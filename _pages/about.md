@@ -20,13 +20,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. candidate in Biological Physics supervised by [Professor David Kleinfeld](https://physics.ucsd.edu/Directory/Person/90) at University of California San Diego (UCSD). I am combining experimental, theoretical and computational approaches to understand brain vascular network strucutre and its roles in maintaining homeostasis and regulating blood flow. Specifically, I am working on the following directions: 
+I am a Ph.D. candidate in Biological Physics supervised by [Professor David Kleinfeld](https://physics.ucsd.edu/Directory/Person/90) at University of California San Diego (UCSD). I am combining experimental, theoretical and computational approaches to understand brain vascular network strucutre, and its roles in maintaining homeostasis and regulating blood flow. Specifically, I am working on the following directions: 
 
-- Developing techniques for large-scale, high-resoluiton imaging of heterogeneous biological tissue 
-- Developing computational pipelines to construct whole mouse brian vascular connectome 
+- Developing techniques for large-scale, high-resoluiton 3D imaging of heterogeneous biological tissue 
+- Developing computational pipelines to construct the spatial graph representation (vascular connectome) of the entire vasuclar network in mouse brain 
 - Applying theoretical analysis and computational modeling to quantitatively understand the physiological significances of the network structure 
 
-
+ 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.

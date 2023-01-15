@@ -5,7 +5,7 @@ title: Vascular Connectome Construction
 # img: assets/img/7.jpg
 # redirect: https://unsplash.com
 importance: 1
-category: Research
+category: Research-TBD
 ---
 
 Every project has a beautiful feature showcase page.
