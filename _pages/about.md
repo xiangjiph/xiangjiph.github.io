@@ -20,8 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. candidate in Biological Physics supervised by [Professor David Kleinfeld](https://physics.ucsd.edu/Directory/Person/90) at University of California San Diego (UCSD). I am combining experimental, theoretical and computational approaches to understand brain vascular network strucutre, and its roles in maintaining homeostasis and regulating blood flow. Specifically, I am working on the following directions: 
-
+I am a Postdoctoral Fellow in Biological Physics in [Professor David Kleinfeld](https://physics.ucsd.edu/Directory/Person/90)'s research group at UC San Diego (UCSD). Previously, I obtained my Ph.D. in Physics and M.S. in Electrical Engineering from UCSD. I am combining experimental, theoretical and computational approaches to understand brain vascular network strucutre and its roles in maintaining homeostasis and regulating blood flow. Specifically, I am working on the following directions: 
 - Developing techniques for large-scale, high-resoluiton 3D imaging of heterogeneous biological tissue 
 - Developing computational pipelines to construct the spatial graph representation (vascular connectome) of the entire vasuclar network in mouse brain 
 - Applying theoretical analysis and computational modeling to quantitatively understand the physiological significances of the network structure 
