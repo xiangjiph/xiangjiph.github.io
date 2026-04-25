@@ -25,11 +25,11 @@ I am a postdoctoral researcher in [Professor Sebastian Seung](https://seunglab.o
 Previously, I quantitatively studied brain vasculature at the system level, focusing on three major directions:
 
 - **Optical microscopy technqiues for organ-scale, high-resolution volumetric tissue imaging**  
-  I developed an automated multiphoton microscopy platform for organ-scale, submicrometer-resolution 3D imaging of heterogeneous biological tissues.
+  I developed an [automated](https://github.com/xiangjiph/WBIM_public) multiphoton microscopy [platform](https://www.nature.com/articles/s41592-025-02849-2) for organ-scale, submicrometer-resolution 3D imaging of heterogeneous biological tissues.
 
 - **Scalable computational pipelines for multiscale quantification from 4D microscopy**  
-  - I developed pipelines that transform hundreds of terabytes of volumetric microscopy data into whole-brain vascular connectomes, capturing the geometry, radii, and connectivity of millions of vessels with unprecedented completeness and precision.  
-  - I also developed a graph-constrained tracking algorithm that converts high-speed volumetric imaging of individual blood cells into quantitative measurements blood flow, making it possible to analyze fast flow dynamics across thousands of interconnected vessels in living mouse brains.
+  - I developed [pipelines](https://github.com/xiangjiph/VCRA) that transform hundreds of terabytes of volumetric microscopy data into whole-brain vascular connectomes, capturing the geometry, radii, and connectivity of millions of vessels with unprecedented completeness and precision.  
+  - I also developed a graph-constrained tracking [algorithm](https://github.com/xiangjiph/NetworkFlowTracker) that converts high-speed volumetric imaging of individual blood cells into quantitative measurements blood flow, making it possible to analyze fast flow dynamics across thousands of interconnected vessels in living mouse brains.
 
 - **Theory-driven analyses for turning measurements into principles**  
   I developed biophysical models that distill organizing principles from large-scale measurements, revealing how microvascular architecture enables robust metabolic support while imposing fundamental constraints on how blood flow can be controlled.
